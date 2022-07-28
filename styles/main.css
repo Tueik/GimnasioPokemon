@@ -1,0 +1,73 @@
+body {
+    background-color: #da6c4d;
+    align-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+blockquote {
+    margin: 10px;
+    padding: 5px;
+    background-color: #a2bb13;
+    color: rgb(249, 249, 249);
+    font-size: 20px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+}
+
+a {
+    margin: 10px;
+    padding: 5;
+    background-color: #4361b5; /* darle color al fondo del boton */
+    border: 2px solid rgb(0, 0, 0);   /*quitar el borde*/
+    padding: 5px;  /*dar espacio al contenido del boton*/
+    color: #ffffff; /*color al texto del botón*/
+    border-radius: 2px; /*redondeo las esquinas de mi botón*/
+
+}
+
+ol {
+
+    margin: 10px;
+    padding: 5px;
+    background-color: #008dc5;
+    color: rgb(249, 249, 249);
+    font-size: 20px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+
+}
+
+h2, h4 {
+
+    margin: 10px;
+    padding: 5px;
+    background-color: #2bcd16;
+    color: rgb(249, 249, 249);
+    font-size: 20px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+    
+}
+
+ul {
+
+    margin: 0px;
+    padding: 10px;
+    background-color: #2004a9;
+    color: rgb(249, 249, 249);
+    font-size: 20px;
+    border: 2px solid #000000;
+    border-radius: 15px;
+
+}
+
+h3, p {
+
+    margin: 10px;
+    padding: 5px;
+    background-color: #bc0bd4;
+    color: rgb(249, 249, 249);
+    font-size: 20px;
+    border: 2px solid #000000;
+    border-radius: 10px;
+}
